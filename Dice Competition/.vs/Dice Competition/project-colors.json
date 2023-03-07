@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db43b4bc-61fd-4f9c-b5a9-b1526560ce92": {
+      "ProjectGuid": "db43b4bc-61fd-4f9c-b5a9-b1526560ce92",
+      "DisplayName": "Dice Competition",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7p7DKYjOoF5UXl2SiTjdZ6U5lA/xQeMa2XNGwlrEamRRxFXfZwPpzlmcnPglT0iq/zcl0Ut8Kg4bWKzqZ8RyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mackr\\source\\repos\\PRGYOURNAMEFA1\\PRGYOURNAMEFA1\\PRGYOURNAMEFA1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mackr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

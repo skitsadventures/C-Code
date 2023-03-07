@@ -1,0 +1,14 @@
+C:\Users\mackr\source\repos\Q5\Q5\bin\Debug\netcoreapp3.1\Q5.exe
+C:\Users\mackr\source\repos\Q5\Q5\bin\Debug\netcoreapp3.1\Q5.deps.json
+C:\Users\mackr\source\repos\Q5\Q5\bin\Debug\netcoreapp3.1\Q5.runtimeconfig.json
+C:\Users\mackr\source\repos\Q5\Q5\bin\Debug\netcoreapp3.1\Q5.runtimeconfig.dev.json
+C:\Users\mackr\source\repos\Q5\Q5\bin\Debug\netcoreapp3.1\Q5.dll
+C:\Users\mackr\source\repos\Q5\Q5\bin\Debug\netcoreapp3.1\Q5.pdb
+C:\Users\mackr\source\repos\Q5\Q5\obj\Debug\netcoreapp3.1\Q5.csproj.AssemblyReference.cache
+C:\Users\mackr\source\repos\Q5\Q5\obj\Debug\netcoreapp3.1\Q5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackr\source\repos\Q5\Q5\obj\Debug\netcoreapp3.1\Q5.AssemblyInfoInputs.cache
+C:\Users\mackr\source\repos\Q5\Q5\obj\Debug\netcoreapp3.1\Q5.AssemblyInfo.cs
+C:\Users\mackr\source\repos\Q5\Q5\obj\Debug\netcoreapp3.1\Q5.csproj.CoreCompileInputs.cache
+C:\Users\mackr\source\repos\Q5\Q5\obj\Debug\netcoreapp3.1\Q5.dll
+C:\Users\mackr\source\repos\Q5\Q5\obj\Debug\netcoreapp3.1\Q5.pdb
+C:\Users\mackr\source\repos\Q5\Q5\obj\Debug\netcoreapp3.1\Q5.genruntimeconfig.cache

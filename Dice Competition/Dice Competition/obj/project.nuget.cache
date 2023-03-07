@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "80uOvIa9/UuLKazpa19A5Jna2G5aDZviVBm4ySgblvP77si9qug2zhI6AcnlSDPmvA/SHvfr75ZPcRPYAOGBXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mackr\\source\\repos\\Dice Competition\\Dice Competition\\Dice Competition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mackr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

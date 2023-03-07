@@ -1,0 +1,21 @@
+﻿<Window x:Class="mileage_efficiently.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mileage_efficiently"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Mileage Efficiency Calculator" HorizontalAlignment="Center" Margin="0,57,0,0" VerticalAlignment="Top" Width="315" FontSize="22" FontWeight="Bold"/>
+        <Rectangle HorizontalAlignment="Center" Height="1" Margin="0,101,0,0" Stroke="Black" VerticalAlignment="Top" Width="736"/>
+        <Rectangle HorizontalAlignment="Center" Height="2" Margin="0,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="736"/>
+        <Label Content="Efficiency (Miles/Gallon):" HorizontalAlignment="Left" Margin="122,293,0,0" VerticalAlignment="Top" Width="144"/>
+        <Label Content="Miles driven: " HorizontalAlignment="Left" Margin="122,136,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Gallons of gas used:" HorizontalAlignment="Left" Margin="122,191,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtMilesDriven" HorizontalAlignment="Center" Margin="0,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtGas" HorizontalAlignment="Center" Margin="0,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnCalculate" Content="Calculate" HorizontalAlignment="Left" Margin="295,364,0,0" VerticalAlignment="Top" Height="43" Width="105" Click="btnCalculate_Click"/>
+        <TextBlock x:Name="txtResult" HorizontalAlignment="Center" Margin="0,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

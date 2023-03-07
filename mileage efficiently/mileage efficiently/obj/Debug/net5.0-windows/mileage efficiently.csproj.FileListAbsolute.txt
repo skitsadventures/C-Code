@@ -1,0 +1,22 @@
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.csproj.AssemblyReference.cache
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently_MarkupCompile.cache
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently_MarkupCompile.lref
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\bin\Debug\net5.0-windows\mileage efficiently.exe
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\bin\Debug\net5.0-windows\mileage efficiently.deps.json
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\bin\Debug\net5.0-windows\mileage efficiently.runtimeconfig.json
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\bin\Debug\net5.0-windows\mileage efficiently.runtimeconfig.dev.json
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\bin\Debug\net5.0-windows\mileage efficiently.dll
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\bin\Debug\net5.0-windows\mileage efficiently.pdb
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.g.resources
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.AssemblyInfoInputs.cache
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.AssemblyInfo.cs
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.csproj.CoreCompileInputs.cache
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.dll
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\ref\mileage efficiently.dll
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.pdb
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\mileage efficiently.genruntimeconfig.cache
+C:\Users\mackr\source\repos\mileage efficiently\mileage efficiently\obj\Debug\net5.0-windows\refint\mileage efficiently.dll

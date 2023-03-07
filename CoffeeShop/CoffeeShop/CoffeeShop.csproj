@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="48-485680_coffee-logo-logo-elements-logo-objects-coffee-logo.png" />
+    <None Remove="print12.png" />
+    <None Remove="save to file 12.png" />
+    <None Remove="Viewdata12.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Betabit.Microsoft.Graph" Version="2.0.9.1" />
+    <PackageReference Include="Microsoft.Build.Tasks.Core" Version="17.2.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="48-485680_coffee-logo-logo-elements-logo-objects-coffee-logo.png" />
+    <Resource Include="print12.png" />
+    <Resource Include="save to file 12.png" />
+    <Resource Include="Viewdata12.png" />
+  </ItemGroup>
+
+</Project>

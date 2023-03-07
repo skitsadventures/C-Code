@@ -1,0 +1,8 @@
+C:\Users\mackr\source\repos\Multiplayer\Multiplayer\bin\Debug\Multiplayer.exe.config
+C:\Users\mackr\source\repos\Multiplayer\Multiplayer\bin\Debug\Multiplayer.exe
+C:\Users\mackr\source\repos\Multiplayer\Multiplayer\bin\Debug\Multiplayer.pdb
+C:\Users\mackr\source\repos\Multiplayer\Multiplayer\obj\Debug\Multiplayer.csproj.AssemblyReference.cache
+C:\Users\mackr\source\repos\Multiplayer\Multiplayer\obj\Debug\Multiplayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mackr\source\repos\Multiplayer\Multiplayer\obj\Debug\Multiplayer.csproj.CoreCompileInputs.cache
+C:\Users\mackr\source\repos\Multiplayer\Multiplayer\obj\Debug\Multiplayer.exe
+C:\Users\mackr\source\repos\Multiplayer\Multiplayer\obj\Debug\Multiplayer.pdb

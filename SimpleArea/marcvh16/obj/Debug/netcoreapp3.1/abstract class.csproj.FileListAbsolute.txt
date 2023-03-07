@@ -1,0 +1,14 @@
+C:\Users\mackr\source\repos\marcvh16\marcvh16\bin\Debug\netcoreapp3.1\abstract class.exe
+C:\Users\mackr\source\repos\marcvh16\marcvh16\bin\Debug\netcoreapp3.1\abstract class.deps.json
+C:\Users\mackr\source\repos\marcvh16\marcvh16\bin\Debug\netcoreapp3.1\abstract class.runtimeconfig.json
+C:\Users\mackr\source\repos\marcvh16\marcvh16\bin\Debug\netcoreapp3.1\abstract class.runtimeconfig.dev.json
+C:\Users\mackr\source\repos\marcvh16\marcvh16\bin\Debug\netcoreapp3.1\abstract class.dll
+C:\Users\mackr\source\repos\marcvh16\marcvh16\bin\Debug\netcoreapp3.1\abstract class.pdb
+C:\Users\mackr\source\repos\marcvh16\marcvh16\obj\Debug\netcoreapp3.1\abstract class.csproj.AssemblyReference.cache
+C:\Users\mackr\source\repos\marcvh16\marcvh16\obj\Debug\netcoreapp3.1\abstract class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackr\source\repos\marcvh16\marcvh16\obj\Debug\netcoreapp3.1\abstract class.AssemblyInfoInputs.cache
+C:\Users\mackr\source\repos\marcvh16\marcvh16\obj\Debug\netcoreapp3.1\abstract class.AssemblyInfo.cs
+C:\Users\mackr\source\repos\marcvh16\marcvh16\obj\Debug\netcoreapp3.1\abstract class.csproj.CoreCompileInputs.cache
+C:\Users\mackr\source\repos\marcvh16\marcvh16\obj\Debug\netcoreapp3.1\abstract class.dll
+C:\Users\mackr\source\repos\marcvh16\marcvh16\obj\Debug\netcoreapp3.1\abstract class.pdb
+C:\Users\mackr\source\repos\marcvh16\marcvh16\obj\Debug\netcoreapp3.1\abstract class.genruntimeconfig.cache

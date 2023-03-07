@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsYIzrlOeZViYe2paUg+aKCA6DCPani2sIvrbh4POscDOkfn8ZGvht8mBWZC4+696XtuCziwCdVk3EJgMPDHbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mackr\\source\\repos\\mileage efficiently\\mileage efficiently\\mileage efficiently.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mackr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

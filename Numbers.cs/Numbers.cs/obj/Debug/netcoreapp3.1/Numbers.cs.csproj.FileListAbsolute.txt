@@ -1,0 +1,14 @@
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\bin\Debug\netcoreapp3.1\Numbers.cs.exe
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\bin\Debug\netcoreapp3.1\Numbers.cs.deps.json
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\bin\Debug\netcoreapp3.1\Numbers.cs.runtimeconfig.json
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\bin\Debug\netcoreapp3.1\Numbers.cs.runtimeconfig.dev.json
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\bin\Debug\netcoreapp3.1\Numbers.cs.dll
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\bin\Debug\netcoreapp3.1\Numbers.cs.pdb
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\obj\Debug\netcoreapp3.1\Numbers.cs.csproj.AssemblyReference.cache
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\obj\Debug\netcoreapp3.1\Numbers.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\obj\Debug\netcoreapp3.1\Numbers.cs.AssemblyInfoInputs.cache
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\obj\Debug\netcoreapp3.1\Numbers.cs.AssemblyInfo.cs
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\obj\Debug\netcoreapp3.1\Numbers.cs.csproj.CoreCompileInputs.cache
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\obj\Debug\netcoreapp3.1\Numbers.cs.dll
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\obj\Debug\netcoreapp3.1\Numbers.cs.pdb
+C:\Users\mackr\source\repos\Numbers.cs\Numbers.cs\obj\Debug\netcoreapp3.1\Numbers.cs.genruntimeconfig.cache
